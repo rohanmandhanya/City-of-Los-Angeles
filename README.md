@@ -1,3 +1,4 @@
-# City-of-Los-Angeles
+# Real or Not? NLP with Disaster Tweets
+## Predict which Tweets are about real disasters and which ones are not
 
-Kaggle completion for City of Los Angeles[https://www.kaggle.com/c/data-science-for-good-city-of-los-angeles]
+Kaggle link - https://www.kaggle.com/c/nlp-getting-started/data
